@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Emma Chapman
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Digital Capability Specialist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Auckland University of Technology
+  url: https://www.aut.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include information seeking, teaching adults, and embodied information.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Digital information literacy
+- Environmental sustainability
+- Embodied experiences
 
 # Education to show in About widget
 education:
